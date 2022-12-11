@@ -12,7 +12,7 @@ int main(){
 	float B;
 	scanf("%f.2",&B);
 	printf("La parte intera corrsiponde a %d\n",A);
-	printf("La parte deciamle corrisponde a %f\n",B);
+	printf("La parte decimale corrisponde a %f.2\n",B);
 	printf("Il numero che hai inserito nella codifica ASCII corrisponde al carattere %c\n",num2char(A));
 	return 0;
 }
